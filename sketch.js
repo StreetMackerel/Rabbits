@@ -1,5 +1,5 @@
 let rabbits = [];
-const numOfRabbits = 10; // adjust rabbit count here
+const numOfRabbits = 20; // adjust rabbit count here
 
 function setup() { 
     createCanvas(windowWidth, windowHeight);
